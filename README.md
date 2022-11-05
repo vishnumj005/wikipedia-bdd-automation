@@ -20,7 +20,7 @@ class.
 
 # Links
 
-* [Github link to clone project](https://github.com/vishnumj005/wikipidea-bdd-automation.git)
+* [Github link to clone project](https://github.com/vishnumj005/wikipedia-bdd-automation.git)
 * please note: the currently used version for python is 3.10.
 * Install requirements before executing the scripts
   file before running the script.
